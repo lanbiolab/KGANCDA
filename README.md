@@ -1,6 +1,6 @@
 # KGANCDA
 # Dataset
-including those data_file:
+including those data files:
 + cancer_list.csv record cancer name and id.
 + circRNA_list.csv record circRNA name and id.
 + lncRNA_list.csv record lncRNA name and id.
