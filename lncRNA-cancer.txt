@@ -1,0 +1,1066 @@
+acute myeloid leukemia,tusc7
+acute myeloid leukemia,ccdc26
+acute myeloid leukemia,wt1-as
+acute myeloid leukemia,linc-223
+acute myeloid leukemia,hotair
+acute myeloid leukemia,uca1
+acute myeloid leukemia,meg3
+acute myeloid leukemia,hotairm1
+acute myeloid leukemia,ccat1
+acute promyelocytic leukemia,pvt1
+acute promyelocytic leukemia,hotairm1
+acute promyelocytic leukemia,neat1
+bladder cancer,hif1a-as2
+bladder cancer,pcat29
+bladder cancer,h19
+bladder cancer,bc041488
+bladder cancer,linc-ror
+bladder cancer,circ-itch
+bladder cancer,ccat2
+bladder cancer,gas5
+bladder cancer,snhg16
+bladder cancer,spry4-it1
+bladder cancer,haglr
+bladder cancer,pandar
+bladder cancer,lncrna-n336928
+bladder cancer,loc572558
+bladder cancer,malat1
+bladder cancer,hotair
+bladder cancer,uca1
+bladder cancer,rp11-359e19.2
+bladder cancer,tug1
+bladder cancer,mdc1-as1
+bladder cancer,linc-itgb1
+bladder cancer,draic
+bladder cancer,tincr
+bladder cancer,neat1
+bladder cancer,xist
+bladder cancer,mincr
+bladder cancer,cdkn2b-as1
+bladder cancer,ab074278
+bladder cancer,blacat1
+bladder cancer,meg3
+bladder cancer,zeb2-as1
+bladder cancer,dbccr1
+bladder cancer,unmibc
+bladder cancer,crnde
+bladder cancer,linc00312
+bladder cancer,sumo1p3
+bladder cancer,schlap1
+bladder cancer,aatbc
+bladder cancer,ghet1
+bladder urothelial carcinoma,tug1
+breast cancer,linc00520
+breast cancer,ror
+breast cancer,hif1a-as2
+breast cancer,ac145110.1
+breast cancer,cat104
+breast cancer,atb
+breast cancer,bcyrn1
+breast cancer,kcnq1ot1
+breast cancer,linc-ror
+breast cancer,bc016831
+breast cancer,ccat2
+breast cancer,linc01405
+breast cancer,snhg16
+breast cancer,pandar
+breast cancer,linc00052
+breast cancer,cytor
+breast cancer,xr_250621.1
+breast cancer,lnc-tead4-1:1
+breast cancer,ak124454
+breast cancer,linc01016
+breast cancer,linc00472
+breast cancer,ak000974
+breast cancer,malat1
+breast cancer,bcar4
+breast cancer,apoc1p1-3
+breast cancer,dancr
+breast cancer,uca1
+breast cancer,zfas1
+breast cancer,loc554202
+breast cancer,linc-itgb1
+breast cancer,egot
+breast cancer,neat1
+breast cancer,xist
+breast cancer,adarb2-as1
+breast cancer,linc00160
+breast cancer,circgfra1
+breast cancer,meg3
+breast cancer,nkila
+breast cancer,rp4-583p15.10
+breast cancer,nbat1
+breast cancer,igkv
+breast cancer,dpp10-as1
+breast cancer,tunar
+breast cancer,pinc
+breast cancer,st8sia6-as1
+breast cancer,lncrna-dleu1
+breast cancer,pvt1
+breast cancer,foxcut
+breast cancer,h19
+breast cancer,hit
+breast cancer,mvih
+breast cancer,epb41l4a-as2
+breast cancer,dscam-as1
+breast cancer,gas5
+breast cancer,linp1
+breast cancer,smad7
+breast cancer,ptprg-as1
+breast cancer,ccdc26
+breast cancer,xiap
+breast cancer,rp11-445h22.4
+breast cancer,u79277
+breast cancer,dirc3
+breast cancer,ck19
+breast cancer,hotair
+breast cancer,bc040587
+breast cancer,bc040204
+breast cancer,fgf14-as2
+breast cancer,rassf1-as1
+breast cancer,tug1
+breast cancer,lncrna-ak058003
+breast cancer,lnc-hoxc4-3:1
+breast cancer,norad
+breast cancer,linc00993
+breast cancer,rmst
+breast cancer,nonhsat125629
+breast cancer,cdkn2b-as1
+breast cancer,sox2-ot
+breast cancer,53bp1
+breast cancer,z38
+breast cancer,tcons_00003876
+breast cancer,stxbp5-as1
+breast cancer,linc00636
+breast cancer,linc01234
+breast cancer,linc00511
+breast cancer,lsinct5
+breast cancer,linc01089
+breast cancer,sra
+breast cancer,ak024118
+breast cancer,mir31hg
+breast cancer,rp11-434d9.1
+breast cancer,mir2052hg
+breast cancer,lncrna-hh
+cervical cancer,hulc
+cervical cancer,znrd1-as1
+cervical cancer,h19
+cervical cancer,ebic
+cervical cancer,bcyrn1
+cervical cancer,cdkn2b-as1
+cervical cancer,ccepr
+cervical cancer,ccat2
+cervical cancer,gas5
+cervical cancer,lnc-cc3
+cervical cancer,spry4-it1
+cervical cancer,hoxa11-as
+cervical cancer,meg3
+cervical cancer,let
+cervical cancer,tusc8
+cervical cancer,pax8-as1
+cervical cancer,mir100hg
+cervical cancer,hotair
+cervical cancer,malat1
+cervical cancer,rsu1p2
+cervical cancer,ac024560.2
+cervical cancer,pvt1
+cholangiocarcinoma,hulc
+cholangiocarcinoma,malat1
+cholangiocarcinoma,h19
+chronic lymphocytic leukemia,dleu1
+chronic lymphocytic leukemia,neat1
+chronic lymphocytic leukemia,crnde
+chronic lymphocytic leukemia,ac012065.7
+chronic lymphocytic leukemia,mir155hg
+chronic lymphocytic leukemia,gata6-as1
+chronic lymphocytic leukemia,miat
+chronic myeloid leukemia,bglt3
+chronic myeloid leukemia,uca1
+chronic myeloid leukemia,hulc
+chronic myeloid leukemia,meg3
+colon cancer,h19
+colon cancer,uhrf1
+colon cancer,atb
+colon cancer,linc-ror
+colon cancer,ccat2
+colon cancer,meg3
+colon cancer,ccat1
+colon cancer,snar
+colon cancer,linc00052
+colon cancer,upat
+colon cancer,cytor
+colon cancer,rbm5-as1/lust
+colon cancer,gsec
+colon cancer,fer1l4
+colon cancer,hotair
+colon cancer,malat1
+colon cancer,uca1
+colon cancer,tug1
+colorectal cancer,ror
+colorectal cancer,slc25a25-as1
+colorectal cancer,ucoo2kmd.1
+colorectal cancer,loc100287225
+colorectal cancer,znf582-as1
+colorectal cancer,kcnq1ot1
+colorectal cancer,linc-ror
+colorectal cancer,ak123657
+colorectal cancer,snhg16
+colorectal cancer,spry4-it1
+colorectal cancer,cahm
+colorectal cancer,linc00538
+colorectal cancer,pandar
+colorectal cancer,lnc-lamc2-1:1
+colorectal cancer,tusc7
+colorectal cancer,uc.388
+colorectal cancer,pcat1
+colorectal cancer,trp53cor1
+colorectal cancer,loc152578
+colorectal cancer,linc01133
+colorectal cancer,malat1
+colorectal cancer,lef1-as1
+colorectal cancer,bcar4
+colorectal cancer,linc01617
+colorectal cancer,dancr
+colorectal cancer,uca1
+colorectal cancer,zfas1
+colorectal cancer,loc554202
+colorectal cancer,linc01296
+colorectal cancer,lnc00964-3
+colorectal cancer,rp1-13p20.6
+colorectal cancer,cr749831
+colorectal cancer,hulc
+colorectal cancer,nptn-it1
+colorectal cancer,neat1
+colorectal cancer,uc002kmd.1
+colorectal cancer,clmat3
+colorectal cancer,afap1-as1
+colorectal cancer,ctd903
+colorectal cancer,meg3
+colorectal cancer,ccal
+colorectal cancer,bancr
+colorectal cancer,crnde
+colorectal cancer,ak021444
+colorectal cancer,crnde-h
+colorectal cancer,bx648207
+colorectal cancer,bc040303
+colorectal cancer,foxp4-as1
+colorectal cancer,ak098081
+colorectal cancer,lncrna-422
+colorectal cancer,loc285194
+colorectal cancer,ak027294
+colorectal cancer,h19
+colorectal cancer,enst00000425785
+colorectal cancer,asbel
+colorectal cancer,gaplinc
+colorectal cancer,bx649059
+colorectal cancer,casc2
+colorectal cancer,hotairm1
+colorectal cancer,ccat1
+colorectal cancer,snhg20
+colorectal cancer,lncrna-hif2put
+colorectal cancer,rp11-462c24.1
+colorectal cancer,fezf1-as1
+colorectal cancer,hotair
+colorectal cancer,tug1
+colorectal cancer,dq786243
+colorectal cancer,lncrna-atb
+colorectal cancer,tincr
+colorectal cancer,hottip
+colorectal cancer,bc037331
+colorectal cancer,cdkn2b-as1
+colorectal cancer,sox2-ot
+colorectal cancer,linc01507
+colorectal cancer,linc00460
+colorectal cancer,ak307796
+colorectal cancer,hoxb-as3
+colorectal cancer,prncr1
+colorectal cancer,casc11
+colorectal cancer,r05532
+colorectal cancer,ncrupar
+colorectal cancer,91h
+colorectal cancer,ghet1
+cutaneous squamous cell carcinoma,picsar
+diffuse large b-cell lymphoma,hotair
+diffuse large b-cell lymphoma,hulc
+diffuse large b-cell lymphoma,lunar1
+diffuse large b-cell lymphoma,loc283177
+endometrial cancer,neat1
+endometrial cancer,linc-ror
+endometrial cancer,snhg12
+endometrial cancer,loc102723552
+endometrial cancer,gas5
+endometrial cancer,la16c-313d11.11
+endometrial cancer,casc2
+endometrial cancer,fam212b-as1
+endometrial cancer,meg3
+endometrial cancer,rp11-501o2
+endometrial cancer,ccat1
+endometrial cancer,fer1l4
+endometrial cancer,rp11-140i24
+endometrial cancer,malat1
+endometrial cancer,hotair
+endometrial cancer,kiaa0087
+endometrial cancer,rp11-395g23.3
+endometrial cancer,uca1
+endometrial cancer,linc00582
+endometrial cancer,rp11-600k151
+epithelial ovarian cancer,uca1
+epithelial ovarian cancer,malat1
+epithelial ovarian cancer,meg3
+epithelial ovarian cancer,cerna2
+esophageal cancer,hulc
+esophageal cancer,h19
+esophageal cancer,bcyrn1
+esophageal cancer,cdkn2b-as1
+esophageal cancer,rp11-523h24.3
+esophageal cancer,rp11-702b10.1
+esophageal cancer,snhg1
+esophageal cancer,hotair
+esophageal cancer,malat1
+esophageal cancer,casc9
+esophageal cancer,uca1
+esophageal cancer,pvt1
+esophageal squamous cell cancer,lincrna-ror
+esophageal squamous cell cancer,hotair
+esophageal squamous cell cancer,sox2ot
+esophageal squamous cell cancer,pvt1
+esophageal squamous cell cancer,lnc-atb
+esophageal squamous cell cancer,ccat1
+gallbladder cancer,linc-itgb1
+gallbladder cancer,h19
+gallbladder cancer,mincr
+gallbladder cancer,cdkn2b-as1
+gallbladder cancer,linc-ror
+gallbladder cancer,meg3
+gallbladder cancer,ccat1
+gallbladder cancer,let
+gallbladder cancer,fam30a
+gallbladder cancer,crnde
+gallbladder cancer,malat1
+gallbladder cancer,hotair
+gallbladder cancer,gcaspc
+gastric cancer,duxap8
+gastric cancer,hif1a-as2
+gastric cancer,atb
+gastric cancer,linc01158
+gastric cancer,linc-ror
+gastric cancer,frlnc1
+gastric cancer,ccat2
+gastric cancer,spry4-it1
+gastric cancer,ac138128.1
+gastric cancer,ak058003
+gastric cancer,pandar
+gastric cancer,tusc7
+gastric cancer,linc00668
+gastric cancer,cytor
+gastric cancer,malat1
+gastric cancer,ai364715
+gastric cancer,rp11-119f7.4
+gastric cancer,uca1
+gastric cancer,bc032469
+gastric cancer,zfas1
+gastric cancer,hulc
+gastric cancer,hoxa-as2
+gastric cancer,xist
+gastric cancer,neat1
+gastric cancer,rn7sk
+gastric cancer,ptenp1
+gastric cancer,hoxa11-as
+gastric cancer,ctd-2616j11.14
+gastric cancer,meg3
+gastric cancer,blacat1
+gastric cancer,loweg
+gastric cancer,hnf1a-as1
+gastric cancer,cr594506
+gastric cancer,rp11-150o12.3
+gastric cancer,fer1l4
+gastric cancer,ac096655.1
+gastric cancer,mina
+gastric cancer,sumo1p3
+gastric cancer,malat2
+gastric cancer,lncrna-fer1l4
+gastric cancer,ak022798
+gastric cancer,pvt1
+gastric cancer,ap001631.9
+gastric cancer,rmrp
+gastric cancer,linc00628
+gastric cancer,h19
+gastric cancer,ak024171
+gastric cancer,rp1-90g24.10
+gastric cancer,tdrg1
+gastric cancer,mrul
+gastric cancer,gata6-as1
+gastric cancer,gas5
+gastric cancer,gaplinc
+gastric cancer,casc2
+gastric cancer,snhg15
+gastric cancer,tcons_00068220
+gastric cancer,fendrr
+gastric cancer,xloc_010235
+gastric cancer,ccat1
+gastric cancer,let
+gastric cancer,vtrna2-1
+gastric cancer,abhd11-as1
+gastric cancer,linc00261
+gastric cancer,lincrna-bbox1-2
+gastric cancer,hotair
+gastric cancer,gacat3
+gastric cancer,ac130710
+gastric cancer,rp11-789c1.1
+gastric cancer,bc015134
+gastric cancer,runx1-it1
+gastric cancer,rp11-1149o23.2
+gastric cancer,tug1
+gastric cancer,tincr
+gastric cancer,ak001094
+gastric cancer,gclnc1
+gastric cancer,pcna-as1
+gastric cancer,hottip
+gastric cancer,zmat1
+gastric cancer,cdkn2b-as1
+gastric cancer,af147447
+gastric cancer,ak093735
+gastric cancer,ak123072
+gastric cancer,krt18p55
+gastric cancer,wt1-as
+gastric cancer,cirs-7
+gastric cancer,snhg5
+gastric cancer,or3a4
+gastric cancer,lsinct5
+gastric cancer,hmlincrna717
+gastric cancer,map3k20-as1
+gastric cancer,nr_003573
+gastric cancer,krt7-as
+gastric cancer,prncr1
+gastric cancer,bc003519
+gastric cancer,mir31hg
+gastric cancer,ncrupar
+gastric cancer,leigc
+gastric cancer,ghet1
+gastric cancer,linc00982
+glioblastoma,hif1a-as2
+glioblastoma,h19
+glioblastoma,xist
+glioblastoma,rp11-838n2.4
+glioblastoma,anti-nos2a
+glioblastoma,malat1
+glioblastoma,hotair
+glioblastoma,ramp2-as1
+glioblastoma,tug1
+glioma,pcat29
+glioma,h19
+glioma,atb
+glioma,kcnq1ot1
+glioma,bcyrn1
+glioma,linc01158
+glioma,snhg18
+glioma,linc-ror
+glioma,gas5
+glioma,tslc1-as1
+glioma,casc2
+glioma,spry4-it1
+glioma,ab073614
+glioma,hoxa-as3
+glioma,uc.283-plus
+glioma,hotairm1
+glioma,ccat1
+glioma,ccdc26
+glioma,tusc7
+glioma,rp5-833a20.1
+glioma,linc01198
+glioma,hotair
+glioma,malat1
+glioma,tp73-as1
+glioma,adamts9-as2
+glioma,uca1
+glioma,tug1
+glioma,mdc1-as1
+glioma,ac016745.3
+glioma,draic
+glioma,econexin
+glioma,neat1
+glioma,xist
+glioma,hottip
+glioma,cdkn2b-as1
+glioma,mir155hg
+glioma,tpt1-as1
+glioma,pcgem1
+glioma,circ-ttbk2
+glioma,hoxa11-as
+glioma,agap2-as1
+glioma,meg3
+glioma,crnde
+glioma,prncr1
+glioma,xloc_001711
+glioma,cdkn2b-as12
+glioma,pvt1
+head and neck squamous cell carcinoma,hotair
+head and neck squamous cell carcinoma,lnc-lce5a-1
+head and neck squamous cell carcinoma,fam3d-as1
+hepatoblastoma,tug1
+hepatocellular carcinoma,wrap53
+hepatocellular carcinoma,snhg1
+hepatocellular carcinoma,spry4-it1
+hepatocellular carcinoma,linc00974
+hepatocellular carcinoma,linc00657
+hepatocellular carcinoma,vl30
+hepatocellular carcinoma,ltrs
+hepatocellular carcinoma,malat1
+hepatocellular carcinoma,prr26
+hepatocellular carcinoma,rert
+hepatocellular carcinoma,zfas1
+hepatocellular carcinoma,rp11-160h22.5
+hepatocellular carcinoma,znrd1-as1
+hepatocellular carcinoma,nptn-it1
+hepatocellular carcinoma,xist
+hepatocellular carcinoma,neat1
+hepatocellular carcinoma,egfr-as1
+hepatocellular carcinoma,mir7-3hg
+hepatocellular carcinoma,aoc4p
+hepatocellular carcinoma,unigene56159
+hepatocellular carcinoma,hcal
+hepatocellular carcinoma,meg3
+hepatocellular carcinoma,lalr
+hepatocellular carcinoma,jpx
+hepatocellular carcinoma,pcat29
+hepatocellular carcinoma,circmto1
+hepatocellular carcinoma,ccepr
+hepatocellular carcinoma,gas5
+hepatocellular carcinoma,heih
+hepatocellular carcinoma,rp5-1014o16.1
+hepatocellular carcinoma,snhg15
+hepatocellular carcinoma,enst00000395084
+hepatocellular carcinoma,ccat1
+hepatocellular carcinoma,mapkapk5-as1
+hepatocellular carcinoma,snhg20
+hepatocellular carcinoma,cecr7
+hepatocellular carcinoma,urhc
+hepatocellular carcinoma,hotair
+hepatocellular carcinoma,icam-1
+hepatocellular carcinoma,af085935
+hepatocellular carcinoma,d16366
+hepatocellular carcinoma,ak093543
+hepatocellular carcinoma,airn
+hepatocellular carcinoma,linc00176
+hepatocellular carcinoma,lncrna-atb
+hepatocellular carcinoma,evi1
+hepatocellular carcinoma,hottip
+hepatocellular carcinoma,sox2-ot
+hepatocellular carcinoma,enst00000438347
+hepatocellular carcinoma,snhg6-003
+hepatocellular carcinoma,linc-cdh4-2
+hepatocellular carcinoma,tuc339
+hepatocellular carcinoma,lk4p2
+hepatocellular carcinoma,gpc3-as1
+hepatocellular carcinoma,casc11
+hepatocellular carcinoma,ftx
+hepatocellular carcinoma,enst00000501583
+hepatocellular carcinoma,loc283663
+hepatocellular carcinoma,lnc-beta-catm
+hepatocellular carcinoma,ax800134
+hepatocellular carcinoma,lncrna-mvih
+hepatocellular carcinoma,uc003wbd
+hepatocellular carcinoma,kcnq1ot1
+hepatocellular carcinoma,linc-ror
+hepatocellular carcinoma,ccat2
+hepatocellular carcinoma,pandar
+hepatocellular carcinoma,tusc7
+hepatocellular carcinoma,linc00052
+hepatocellular carcinoma,znf674-as1
+hepatocellular carcinoma,cytor
+hepatocellular carcinoma,pcat1
+hepatocellular carcinoma,linc01419
+hepatocellular carcinoma,ufc1
+hepatocellular carcinoma,uc.338
+hepatocellular carcinoma,ak056988
+hepatocellular carcinoma,dancr
+hepatocellular carcinoma,bc017743
+hepatocellular carcinoma,uca1
+hepatocellular carcinoma,uc003yqb.1
+hepatocellular carcinoma,loc149086
+hepatocellular carcinoma,dreh
+hepatocellular carcinoma,hulc
+hepatocellular carcinoma,af070632
+hepatocellular carcinoma,draic
+hepatocellular carcinoma,afap1-as1
+hepatocellular carcinoma,ptenp1
+hepatocellular carcinoma,snhg6
+hepatocellular carcinoma,linc01018
+hepatocellular carcinoma,zeb2-as1
+hepatocellular carcinoma,hnf1a-as1
+hepatocellular carcinoma,linc00601
+hepatocellular carcinoma,cbr3-as1
+hepatocellular carcinoma,uc001ncr
+hepatocellular carcinoma,bancr
+hepatocellular carcinoma,ak021443
+hepatocellular carcinoma,mina
+hepatocellular carcinoma,flj90757
+hepatocellular carcinoma,snhg3
+hepatocellular carcinoma,icr
+hepatocellular carcinoma,pvt1
+hepatocellular carcinoma,cps1-it1
+hepatocellular carcinoma,h19
+hepatocellular carcinoma,dbh-as1
+hepatocellular carcinoma,rbmy2fp
+hepatocellular carcinoma,cxcl1p1
+hepatocellular carcinoma,linc00346
+hepatocellular carcinoma,tp73-as1
+hepatocellular carcinoma,loc338651
+hepatocellular carcinoma,tug1
+hepatocellular carcinoma,tcons_00018278
+hepatocellular carcinoma,lnctcf7
+hepatocellular carcinoma,pcna-as1
+hepatocellular carcinoma,cdkn2b-as1
+hepatocellular carcinoma,rp1130-1
+hepatocellular carcinoma,wt1-as
+hepatocellular carcinoma,xloc_014172
+hepatocellular carcinoma,aslnc02525
+hepatocellular carcinoma,lincrna-tspan8
+hepatocellular carcinoma,igf2-as
+hepatocellular carcinoma,snh12
+intrahepatic cholangiocarcinoma,malat1
+intrahepatic cholangiocarcinoma,cps1-it1
+kidney clear cell carcinoma,malat1
+laryngeal squamous cell carcinoma,h19
+laryngeal squamous cell carcinoma,xloc_l2_010636
+laryngeal squamous cell carcinoma,neat1
+laryngeal squamous cell carcinoma,ac026166.2
+laryngeal squamous cell carcinoma,hotair
+laryngeal squamous cell carcinoma,malat1
+laryngeal squamous cell carcinoma,loc100505976
+laryngeal squamous cell carcinoma,rp11-169d4.1
+liver cancer,hulc
+liver cancer,lnctcf7
+liver cancer,h19
+liver cancer,dilc
+liver cancer,mir7-3hg
+liver cancer,hotair
+liver cancer,malat1
+liver cancer,lnccamta1
+liver cancer,uca1
+liver cancer,lncrna-lalr1
+liver cancer,mt1dp
+lung adenocarcinoma,draic
+lung adenocarcinoma,ror
+lung adenocarcinoma,rp11-457m11.2
+lung adenocarcinoma,pcat29
+lung adenocarcinoma,linc01207
+lung adenocarcinoma,acta2-as1
+lung adenocarcinoma,afap1-as1
+lung adenocarcinoma,gas5
+lung adenocarcinoma,zxf2
+lung adenocarcinoma,rgmb-as1
+lung adenocarcinoma,rp11-181g12.2
+lung adenocarcinoma,lcal6
+lung adenocarcinoma,rplp0p2
+lung adenocarcinoma,meg3
+lung adenocarcinoma,hsa_circ_0013958
+lung adenocarcinoma,ccat1
+lung adenocarcinoma,linc00511
+lung adenocarcinoma,hnf1a-as1
+lung adenocarcinoma,linc00115
+lung adenocarcinoma,loc440905
+lung adenocarcinoma,loc100132354
+lung adenocarcinoma,rp11-325i22.2
+lung adenocarcinoma,hotair
+lung adenocarcinoma,malat1
+lung adenocarcinoma,rp11-89k21
+lung adenocarcinoma,luadt1
+lung adenocarcinoma,hsa_circ_0012673
+lung adenocarcinoma,dlx6-as1
+lung cancer,rmrp
+lung cancer,bc020384
+lung cancer,lncrna-mvih
+lung cancer,h19
+lung cancer,bcyrn1
+lung cancer,epb41l4a-as2
+lung cancer,linc00635
+lung cancer,linc00473
+lung cancer,pcat6
+lung cancer,lucat1
+lung cancer,ccat2
+lung cancer,gas5
+lung cancer,nr_026689
+lung cancer,spry4-it1
+lung cancer,fendrr
+lung cancer,lincrna-p21
+lung cancer,ccat1
+lung cancer,mir4435-2hg
+lung cancer,tusc7
+lung cancer,af118081
+lung cancer,casc8
+lung cancer,lcal1
+lung cancer,sbf2-as1
+lung cancer,af085995
+lung cancer,uc.338
+lung cancer,sgo1-as1
+lung cancer,hotair
+lung cancer,malat1
+lung cancer,ak021595
+lung cancer,snhg7
+lung cancer,uca1
+lung cancer,loc728228
+lung cancer,dq786227
+lung cancer,ak000053
+lung cancer,neat1
+lung cancer,bc030759
+lung cancer,hottip
+lung cancer,cdkn2b-as1
+lung cancer,sox2-ot
+lung cancer,afap1-as1
+lung cancer,cr615992
+lung cancer,linc00313
+lung cancer,ak124307
+lung cancer,meg3
+lung cancer,lnc_bc060912
+lung cancer,mrak081523
+lung cancer,ak022024
+lung cancer,bancr
+lung cancer,nexn-as1
+lung cancer,mina
+lung cancer,car10
+lung cancer,mrak088388
+lung cancer,cps1-it1
+lung squamous cell carcinoma,linc01133
+lung squamous cell carcinoma,ac006050.3
+lung squamous cell carcinoma,pvt1
+lung squamous cell carcinoma,sox2-ot
+lung squamous cell carcinoma,terc
+malignant melanoma,cdkn2b-as1
+malignant melanoma,malat1
+malignant melanoma,h19
+melanoma,draic
+melanoma,pcat29
+melanoma,h19
+melanoma,mhencr
+melanoma,cdkn2b-as1
+melanoma,sammson
+melanoma,gas5
+melanoma,llme23
+melanoma,spry4-it1
+melanoma,snhg5
+melanoma,linc00673
+melanoma,linc00032
+melanoma,meloe
+melanoma,bancr
+melanoma,casc15
+melanoma,malat1
+melanoma,rmel3
+melanoma,numb
+melanoma,uca1
+melanoma,tug1
+multiple myeloma,malat1
+multiple myeloma,pvt1
+multiple myeloma,meg3
+multiple myeloma,tp73-as1
+nasopharyngeal carcinoma,ak095147
+nasopharyngeal carcinoma,h19
+nasopharyngeal carcinoma,ewsat1
+nasopharyngeal carcinoma,neat1
+nasopharyngeal carcinoma,xist
+nasopharyngeal carcinoma,lnc-znf674-1
+nasopharyngeal carcinoma,cdkn2b-as1
+nasopharyngeal carcinoma,ak056098
+nasopharyngeal carcinoma,linc-ror
+nasopharyngeal carcinoma,afap1-as1
+nasopharyngeal carcinoma,rp1-179n16.3
+nasopharyngeal carcinoma,meg3
+nasopharyngeal carcinoma,let
+nasopharyngeal carcinoma,hnf1a-as1
+nasopharyngeal carcinoma,ak294004
+nasopharyngeal carcinoma,lnc-al355149.1-1
+nasopharyngeal carcinoma,linc00312
+nasopharyngeal carcinoma,malat1
+nasopharyngeal carcinoma,hotair
+nasopharyngeal carcinoma,linc01315
+nasopharyngeal carcinoma,pcat7
+nasopharyngeal carcinoma,enst00000438550
+nasopharyngeal carcinoma,loc401317
+nasopharyngeal carcinoma,loc100129148
+nasopharyngeal carcinoma,n375709
+nasopharyngeal carcinoma,af086415
+non-small cell lung cancer,lncrna-mvih
+non-small cell lung cancer,h19
+non-small cell lung cancer,hit
+non-small cell lung cancer,bcyrn1
+non-small cell lung cancer,hsa_circ_0043256
+non-small cell lung cancer,linc00473
+non-small cell lung cancer,lucat1
+non-small cell lung cancer,ccat2
+non-small cell lung cancer,snhg1
+non-small cell lung cancer,gas5
+non-small cell lung cancer,rgmb-as1
+non-small cell lung cancer,spry4-it1
+non-small cell lung cancer,fendrr
+non-small cell lung cancer,gas5-as1
+non-small cell lung cancer,ccat1
+non-small cell lung cancer,pandar
+non-small cell lung cancer,tusc7
+non-small cell lung cancer,gas6-as1
+non-small cell lung cancer,sbf2-as1
+non-small cell lung cancer,ghsros
+non-small cell lung cancer,linc01133
+non-small cell lung cancer,hotair
+non-small cell lung cancer,malat1
+non-small cell lung cancer,snhg7
+non-small cell lung cancer,linc00342
+non-small cell lung cancer,uca1
+non-small cell lung cancer,rp11-397d12.4
+non-small cell lung cancer,tug1
+non-small cell lung cancer,ak126698
+non-small cell lung cancer,linc01852
+non-small cell lung cancer,irain
+non-small cell lung cancer,neat1
+non-small cell lung cancer,xist
+non-small cell lung cancer,hottip
+non-small cell lung cancer,cdkn2b-as1
+non-small cell lung cancer,c6orf176-tv1
+non-small cell lung cancer,erich1-as1
+non-small cell lung cancer,afap1-as1
+non-small cell lung cancer,hif1a-as1
+non-small cell lung cancer,linc00673
+non-small cell lung cancer,ac007403.1
+non-small cell lung cancer,agap2-as1
+non-small cell lung cancer,meg3
+non-small cell lung cancer,hmlincrna717
+non-small cell lung cancer,c6orf176-tv2
+non-small cell lung cancer,linc00858
+non-small cell lung cancer,bancr
+non-small cell lung cancer,pvt1
+non-small cell lung cancer,bc087858
+oral squamous cell carcinoma,circrna_100290
+oral squamous cell carcinoma,foxcut
+oral squamous cell carcinoma,neat1
+oral squamous cell carcinoma,gtf2ird2p1
+oral squamous cell carcinoma,circdock1
+oral squamous cell carcinoma,ccat2
+oral squamous cell carcinoma,pdia3f
+oral squamous cell carcinoma,hotair
+oral squamous cell carcinoma,malat1
+oral squamous cell carcinoma,uca1
+oral squamous cell carcinoma,fth1p3
+osteosarcoma,h19
+osteosarcoma,mfi2
+osteosarcoma,snhg12
+osteosarcoma,fendrr
+osteosarcoma,hif-2alpha
+osteosarcoma,tusc7
+osteosarcoma,linc00161
+osteosarcoma,zeb1-as1
+osteosarcoma,malat1
+osteosarcoma,bc040587
+osteosarcoma,hotair
+osteosarcoma,bcar4
+osteosarcoma,dancr
+osteosarcoma,uca1
+osteosarcoma,tug1
+osteosarcoma,hulc
+osteosarcoma,hif2put
+osteosarcoma,hottip
+osteosarcoma,xist
+osteosarcoma,cdkn2b-as1
+osteosarcoma,foxc2-as1
+osteosarcoma,hsa_circ_0001564
+osteosarcoma,circ_0009910
+osteosarcoma,meg3
+osteosarcoma,hnf1a-as1
+osteosarcoma,pacerr
+osteosarcoma,bancr
+osteosarcoma,fgfr3-as1
+osteosarcoma,pvt1
+osteosarcoma,91h
+osteosarcoma,circ-0016347
+ovarian cancer,dnm3os
+ovarian cancer,rp11-57p19.1
+ovarian cancer,h19
+ovarian cancer,rp11-254i22.1
+ovarian cancer,bcyrn1
+ovarian cancer,rp11-284n8.3.1
+ovarian cancer,tc0101441
+ovarian cancer,ccat2
+ovarian cancer,gas5
+ovarian cancer,bace1-as
+ovarian cancer,ab073614
+ovarian cancer,fam215a
+ovarian cancer,rp11-80h5.7
+ovarian cancer,linc00472
+ovarian cancer,rp4-799p18.3
+ovarian cancer,hotair
+ovarian cancer,malat1
+ovarian cancer,gacat3
+ovarian cancer,ac104699.1.1
+ovarian cancer,uca1
+ovarian cancer,tug1
+ovarian cancer,neat1
+ovarian cancer,asap1-it1
+ovarian cancer,xist
+ovarian cancer,cdkn2b-as1
+ovarian cancer,rp11-307c12.11
+ovarian cancer,rp1-223e5.4
+ovarian cancer,h1.3
+ovarian cancer,hoxa11-as
+ovarian cancer,meg3
+ovarian cancer,znf300p1
+ovarian cancer,lsinct5
+ovarian cancer,ovaal
+ovarian cancer,crnde
+ovarian cancer,mir22hg
+ovarian cancer,ptprd-as1
+ovarian cancer,pvt1
+ovarian cancer,nr_026689
+ovarian cancer,cerna2
+pancreatic cancer,nutf2p3-001
+pancreatic cancer,hulc
+pancreatic cancer,h19
+pancreatic cancer,irain
+pancreatic cancer,hottip
+pancreatic cancer,xist
+pancreatic cancer,atb
+pancreatic cancer,linc-ror
+pancreatic cancer,afap1-as1
+pancreatic cancer,gas5
+pancreatic cancer,linc00673
+pancreatic cancer,meg3
+pancreatic cancer,hmlincrna717
+pancreatic cancer,rp11-567g11.1
+pancreatic cancer,hnf1a-as1
+pancreatic cancer,ccdc26
+pancreatic cancer,cytor
+pancreatic cancer,nutf2p3
+pancreatic cancer,linc00261
+pancreatic cancer,hotair
+pancreatic cancer,malat1
+pancreatic cancer,uc.345
+pancreatic cancer,uca1
+pancreatic cancer,pvt1
+pancreatic cancer,tug1
+pancreatic cancer,af339813
+pancreatic ductal adenocarcinoma,loc389641
+pancreatic ductal adenocarcinoma,linc00675
+pancreatic ductal adenocarcinoma,ppp3ca
+pancreatic ductal adenocarcinoma,h19
+pancreatic ductal adenocarcinoma,hottip
+pancreatic ductal adenocarcinoma,afap1-as1
+pancreatic ductal adenocarcinoma,map3k14
+pancreatic ductal adenocarcinoma,bc008363
+pancreatic ductal adenocarcinoma,linc00673
+pancreatic ductal adenocarcinoma,hotairm1
+pancreatic ductal adenocarcinoma,lincrna1611
+pancreatic ductal adenocarcinoma,enst00000480739
+pancreatic ductal adenocarcinoma,linc00339
+pancreatic ductal adenocarcinoma,malat1
+pancreatic ductal adenocarcinoma,mir31hg
+pancreatic ductal adenocarcinoma,uca1
+pancreatic ductal adenocarcinoma,loc285194
+prostate cancer,suz12p1
+prostate cancer,pcat29
+prostate cancer,h19
+prostate cancer,pcncr1
+prostate cancer,linc00963
+prostate cancer,atb
+prostate cancer,miat
+prostate cancer,bx647187
+prostate cancer,ccat2
+prostate cancer,gas5
+prostate cancer,snhg1
+prostate cancer,pcats
+prostate cancer,spry4-it1
+prostate cancer,linc01138
+prostate cancer,ctb-89h12.4
+prostate cancer,socs2-as1
+prostate cancer,pcat2
+prostate cancer,tcons_l2_00001418
+prostate cancer,pcat1
+prostate cancer,ensg00000261777
+prostate cancer,tcons_l2_00008237
+prostate cancer,malat1
+prostate cancer,hotair
+prostate cancer,pca3
+prostate cancer,lnc-mx1-1
+prostate cancer,pcat14
+prostate cancer,dancr
+prostate cancer,uca1
+prostate cancer,hcg11
+prostate cancer,tcons_l2_00022670
+prostate cancer,tug1
+prostate cancer,fr0348383
+prostate cancer,c1qtnf9b-as1
+prostate cancer,tcons_l2_00013175
+prostate cancer,loc728606
+prostate cancer,hottip
+prostate cancer,pcat5
+prostate cancer,cdkn2b-as1
+prostate cancer,neat1
+prostate cancer,ctbp1-as
+prostate cancer,ptenp1
+prostate cancer,pcgem1
+prostate cancer,tcons_l2_00011130
+prostate cancer,meg3
+prostate cancer,cdkn2b-as9
+prostate cancer,igf2-as
+prostate cancer,cbr3-as1
+prostate cancer,loc400891
+prostate cancer,pcat18
+prostate cancer,linc-pxn-1
+prostate cancer,tcons_l2_00022611
+prostate cancer,prncr1
+prostate cancer,schlap1
+prostate cancer,trpm2-as
+prostate cancer,pvt1
+prostate cancer,terc
+renal carcinoma,hotair
+renal carcinoma,pvt1
+renal carcinoma,lncarsr
+renal cell carcinoma,lncrna-atb
+renal cell carcinoma,h19
+renal cell carcinoma,linc00963
+renal cell carcinoma,uc009yby.1
+renal cell carcinoma,gas5
+renal cell carcinoma,rccrt1
+renal cell carcinoma,ptenp1
+renal cell carcinoma,casc2
+renal cell carcinoma,meg3
+renal cell carcinoma,let
+renal cell carcinoma,pandar
+renal cell carcinoma,trim52-as1
+renal cell carcinoma,cytor
+renal cell carcinoma,crnde
+renal cell carcinoma,tcl6
+renal cell carcinoma,malat1
+renal cell carcinoma,hotair
+renal cell carcinoma,uca1
+renal cell carcinoma,sarcc
+renal cell carcinoma,pvt1
+renal cell carcinoma,tug1
+renal cell carcinoma,lncarsr
+renal clear cell carcinoma,draic
+renal clear cell carcinoma,nbat1
+renal clear cell carcinoma,nonhsat123350
+renal clear cell carcinoma,pcat29
+renal clear cell carcinoma,lnc-znf180-2
+renal clear cell carcinoma,bc029135
+renal clear cell carcinoma,malat1
+renal clear cell carcinoma,cadm1-as1
+renal clear cell carcinoma,spry4-it1
+renal clear cell carcinoma,linc00887
+renal clear cell carcinoma,loc389332
+renal clear cell carcinoma,x91348
+retinoblastoma,bancr
+retinoblastoma,meg3
+thyroid cancer,falec
+thyroid cancer,h19
+thyroid cancer,cdkn2b-as1
+thyroid cancer,loc100507661
+thyroid cancer,malat1
+thyroid cancer,ptcsc3
+thyroid cancer,pvt1
+thyroid cancer,meg3
+tongue squamous cell carcinoma,h19
+tongue squamous cell carcinoma,lnc-mbl2-4:3
+tongue squamous cell carcinoma,hottip
+tongue squamous cell carcinoma,pcbp2-ot1
+tongue squamous cell carcinoma,lnc-stxbp5-1
+tongue squamous cell carcinoma,malat1
+tongue squamous cell carcinoma,uca1
+tongue squamous cell carcinoma,meg3
+tongue squamous cell carcinoma,nkila
