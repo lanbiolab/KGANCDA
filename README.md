@@ -1,6 +1,7 @@
 # KGANCDA
 KGANCDA is effective to predict associations between circRNA and cancer, which is based on knowledge graph attention network. The detail of the paper will be released in this page after the paper accepted.
-AUthor: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Yi Pan. Yi-Ping Phoebe Chen.
+
+Author: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Yi Pan. Yi-Ping Phoebe Chen.
 
 # Environment Requirement
 + tensorflow == 1.12.0
