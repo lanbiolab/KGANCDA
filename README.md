@@ -26,6 +26,9 @@ including those data files:
 + main.py: the main program in the project. Run main.py to generate the embeddings of all nodes in the network
 + ExtractFeature.py: After obtaining the embedding of all nodes, run this file to validate the effect of the model in 5-fold cross validation.
 
+# Compare_models
++ There are 6 the state-of-the-art models including: CD-LNLP, DMFCDA, DWNN-RLS, GCNCDA, KATZHCDA, RWR, which are compared under the same experiment settings.
+
 # Question
 + If you have any problems or find mistakes in this code, please contact with me: 
 Yi Dong: dongyi@st.gxu.edu.cn 
