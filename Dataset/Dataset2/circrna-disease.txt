@@ -1,0 +1,346 @@
+hsa_circ_0082081,coronary artery disease
+hsa-circrna-102685,crohn disease
+hsa_circrna_100918,t2dm with depression
+hsa_circ_0030045,tuberculosis
+hsa_circrna_004183,repeated implantation failure
+hsa_circ_0075001,acute myeloid leukemia
+hsa_circ_0057093,diabetes retinopathy
+hsa_circ_0000615,myocardial infarction
+hsa_circ_0018508,type 2 diabetes mellitus
+circptpn22,systemic lupus erythematous
+hsa_circ_0001275,postmenopausal osteoporosis
+circrna_003524,rheumatoid arthritis
+circrna7231,herpes simplex virus 1 infection
+hsa_circ_0005836,active pulmonary tuberculosis
+hsa_circ_0005870,hypertensive
+circsema4b,intervertebral disc degeneration
+hsa_circ_0000615,lupus nephritis
+cttn1,heart failure
+hsa_circ_0089810,primary great saphenous vein varicosities
+circ-satb2,coronary atherosclerotic heart disease
+hsa_circ_0056048,major depressive disorder
+hsa_circ_0066922,diabetes retinopathy
+hsa_circ_0001187,acute myeloid leukemia
+hsa_circ_0021549,systemic lupus erythematous
+hsa_circ_0087215,diabetes retinopathy
+hsa_circrna_067209,moyamoya disease
+hsa_circ_0022342,chronic thromboembolic pulmonary hypertension
+circ_sdha,primary great saphenous vein varicosities
+hsa_circ_0092374,systemic lupus erythematous
+circtlk1,ischemic stroke
+hsa_circ_0070616,repeated implantation failure
+hsa_circ_0037909,essential hypertension
+circ_103546,crohn disease
+circibtk,systemic lupus erythematosus
+hsa_circ_0004136,acute myeloid leukemia
+hsa_circ_0004277,leukemia
+hsa-circ-0000437,hypertension
+hsa_circ_0083964,rheumatoid arthritis
+hsa-circrna5974-1,coronary artery disease
+hsa_circ_0028882,postmenopausal osteoporosis
+hsa_circrna_001937,active tuberculosis
+hsa_circrna_015115,t2dm with depression
+circrna_0001073,acne
+hsa_circ_0000517,multiple sclerosis
+cttn2,heart failure
+circankrd36,type 2 diabetes mellitus
+hsa_circ_0003519,active pulmonary tuberculosis
+hsa_circ_0025039,malignant melanoma
+hsa_circrna_101720,moyamoya disease
+circrna_09993,pulmonary tuberculosis
+hsa_circ_0088452,active pulmonary tuberculosis
+hsa_circ_0006323,coronary artery disease
+hsa_circ_0005105,osteoarthritis
+hsa_circ_087631,primary biliary cholangitis
+hsa_circ_0070963,liver fibrosis
+circrna_103047,rheumatoid arthritis
+hsa_circ_0036877,pre-eclampsia
+hsa_circ_0072765,liver fibrosis
+hsa_circ_0098964,coronary artery disease
+circrna_0005941,acne
+hsa_circrna_100914,moyamoya disease
+hsa_circ_103783,leukoaraiosis
+hsa_circrna_101873,rheumatoid arthritis
+hsa_circ_0035560,multiple sclerosis
+hsa_circrna_003251,t2dm with depression
+hsa_circrna11806-28,type 2 diabetes mellitus
+hsa_circ_102470,leukoaraiosis
+circ_stk17a,temporal lobe epilepsy
+hsa_circrna_005086,active tuberculosis
+hsa_circ_0032683,rheumatoid arthritis
+circular rna wdr77,cardiovascular disease
+circrna.1030,gestational diabetes mellitus
+hsa-circ-0008139,hypertension
+hsa_circ_0108308,multiple system atrophy
+circrna_13478,pulmonary tuberculosis
+hsa_circ_0124644,coronary artery disease
+hsa_circ_0002113,pulmonary tuberculosis
+hsa_circ_092516,rheumatoid arthritis
+hsa_circ_0032891,multiple system atrophy
+hsa_circ_406329,primary biliary cholangitis
+hsa_circ_0106803,multiple sclerosis
+hsa_circ_0037911,essential hypertension
+hsa_circ_0002161,essential hypertension
+hsa_circ_0030055,diabetes retinopathy
+hsa_circrna_104854,repeated implantation failure
+hsa_circ_0068087,type 2 diabetes mellitus
+hsa_circ_0045714,osteoarthritis
+hsa_circ_0043497,tuberculosis
+cznf292,heart failure
+circusp45,glucocorticoid-induced osteonecrosis of femoral head
+hsa_circ_0054211,multiple system atrophy
+circ_ubqln1,temporal lobe epilepsy
+hsa_circ_0123996,kawasaki disease
+hsa_circ_0000479,systemic lupus erythematous
+circ-prkci,hirschsprung disease
+hsa-circ-0040809,hypertension
+hsa_circ_0054345,irradiated hepatic stellate cell
+hsa_circ_0054633,type 2 diabetes mellitus
+hsa_circ_0023903,moyamoya disease
+hsa_circ_0050898,moyamoya disease
+hsa_circ_0000254,acute myeloid leukemia
+hsa_circ_0001866,systemic lupus erythematous
+hsa_circ_100290,acute myeloid leukemia
+hsa_circ_0038374,multiple system atrophy
+circrna_0046366,hepatocellular steatosis
+hsa_circ_0017446,acute myeloid leukemia
+hsa_circ_0046599,systemic lupus erythematous
+hsa_circ_0070963,irradiated hepatic stellate cell
+hsa_circ_0001859,rheumatoid arthritis
+hsa_circ_0056731,multiple sclerosis
+circ_cct4,temporal lobe epilepsy
+hsa_circrna_103410,diabetic retinopathy
+circ-anapc7,acute myeloid leukemia
+hsa_circ_0000518,multiple sclerosis
+hsa_circ_0063179,pulmonary tuberculosis
+hsa_circ_002082,hepatic steatosis
+hsa_circ_0049657,acute myeloid leukemia
+hsa_circ_0054345,liver fibrosis
+circrna_26852,metabolism-related diseases
+hsa_circ_0041796,diabetes retinopathy
+hsa_circ_0072668,facet joint osteoarthritis
+has_circ_0049220,systemic lupus erythematous
+circrna-0004904,pre-eclampsia
+hsa_circ_0080145,chronic myeloid leukemia
+hsa_circ_0044235,rheumatoid arthritis
+hsa_circ_0008797,pulmonary tuberculosis
+hsa_circ_0100783,immunosenescence
+hsa_circ_0005127,facet joint osteoarthritis
+circ kmt2e,diabetic cataract
+hsa_circ_0067209,moyamoya disease
+hsa-circrna11783-2,coronary artery disease
+hsa_circ_0026388,diabetes retinopathy
+circrna_104670,intervertebral disc degeneration
+hsa_circ_0003171,primary great saphenous vein varicosities
+hsa_circrna_044353,repeated implantation failure
+hsa_circ_402458,primary biliary cholangitis
+hsa_circrna_103343,moyamoya disease
+circrna_09585,pulmonary tuberculosis
+hsa_circ_004183,hepatic steatosis
+hsa_circrna_103387,osteoarthritis
+cttn5,heart failure
+hsa_circ_0005402,multiple sclerosis
+hsa_circ_0041946,intervertebral disc degeneration
+hsa_circ_0001204,tuberculosis
+circrna_0084927,acne
+hsa_circ_0008078,acute myeloid leukemia
+hsa_circ_0032970,coronary artery disease
+circdlgap4,acute ischemic stroke
+hsa_circ_014724,hepatic steatosis
+hsa_circ_0071410,liver fibrosis
+hsa_circ_0052012,rheumatoid arthritis
+hsa_circrna_0054633,gestational diabetes mellitus
+hsa_circ_0005540,multiple system atrophy
+hsa_circ_0081108,diabetes retinopathy
+hsa_circ_0126991,essential hypertension
+hsa_circ_0005519,asthma
+circsmarca5,cardiovascular disease
+hsa_circ_0053743,facet joint osteoarthritis
+hsa_circ_052372,primary biliary cholangitis
+hsa_circ_101396,leukoaraiosis
+hsa_circ_0072410,diabetes retinopathy
+cir-ccdc66,hirschsprung disease
+circ_004662,crohn disease
+circr-284,carotid plaque rupture
+hsa_circ_082319,primary biliary cholangitis
+hsa_circ_0023115,ovarian endometriosis
+hsa_circ_0006801,postmenopausal osteoporosis
+hsa_circrna_406918,diabetic retinopathy
+hsa_circ_0008615,systemic lupus erythematous
+hsa_circ_0034398,systemic lupus erythematous
+circrna_atp9b,osteoarthritis
+circ_vps37c,temporal lobe epilepsy
+hsa_circ_0082824,coronary artery disease
+hsa_circ_0002569,moyamoya disease
+cdkn2b-as1,inflammatory bowel disease
+hsa_circ_0087206,diabetes retinopathy
+hsa_circrna_104871,rheumatoid arthritis
+hsa_circrna_009024,active tuberculosis
+circ_102610,crohn disease
+hsa_circ_0003146,systemic lupus erythematous
+circrna-0044073,atherosclerosis
+hsa_circ_0080210,intervertebral disc degeneration
+hsa_circ_0000681,pulmonary tuberculosis
+hsa-circrna11783-2,type 2 diabetes mellitus
+hsa_circrna_104964,active tuberculosis
+circrna_000203,cardiac fibrosis
+hsa_circrna11806-28,coronary artery disease
+circ_efcab2,temporal lobe epilepsy
+hsa_circrna_101975,osteoarthritis
+hsa_circrna_100192,diabetic retinopathy
+hsa_circ6510-1,coronary artery disease
+hsa_circ_0006404,myocardial senescence
+circ_usp9y,temporal lobe epilepsy
+hsa_circrna_101319,rheumatoid arthritis
+hsa_circ_0063781,facet joint osteoarthritis
+hsa_circ_0087537,facet joint osteoarthritis
+hsa_circ_0029067,facet joint osteoarthritis
+circ_092520,crohn disease
+hsa_circ_0000615,hirschsprung disease
+hsa_circ_0019069,diabetes retinopathy
+hsa_circrna_050898,moyamoya disease
+hsa_circ_0023956,active pulmonary tuberculosis
+hsa_circ_0078768,active pulmonary tuberculosis
+circrna_11058,rheumatic heart disease
+hsa_circ_0005218,pre-eclampsia
+circrna_11017,rheumatic heart disease
+circrna_0018168,acne
+hsa_circ_0000414,pulmonary tuberculosis
+circrunx2,osteoporosis
+hsa_circrna_091692,active tuberculosis
+hsa_circ_0026372,diabetes retinopathy
+hsa_circ_103047,rheumatoid arthritis
+hsa_circ_0005442,pre-eclampsia
+hsa_circ_0014243,hypertension
+hsa_circ_0001947,acute myeloid leukemia
+hsa_circrna_102101,active tuberculosis
+hsa_circ_0068942,coronary artery disease
+hsa_circ_0051172,coronary artery disease
+circfoxo3,cardiac senescence
+cznf609,lymphangiogenesis
+circzc3h4,silicosis
+hsa_circrna_102296,active tuberculosis
+hsa_circrna_000598,osteoarthritis
+hsa_circ_003524,rheumatoid arthritis
+hsa-circ-0005870,hypertension
+hsa_circ_0000175,lupus nephritis
+circ_103124,crohn disease
+hsa_circ_004121,hepatic steatosis
+hsa_circ_0089378,coronary artery disease
+circznf609,vascular endothelial dysfunction
+hsa_circ_0012919,systemic lupus erythematous
+circrna.2837,sciatic nerve injury
+hsa_circrna_404686,repeated implantation failure
+circrna7752,herpes simplex virus 1 infection
+hsa_circ_0001410,major depressive disorder
+circrna-chr19,ebola virus disease
+hsa_circrna_104296,active tuberculosis
+hsa_circ_0064996,rheumatoid arthritis
+hsa_circ_000361,primary biliary cholangitis
+hsa-circ-000595,aortic aneurysm
+hsa_circrna_404457,diabetic retinopathy
+hsa_circ_0081162,diabetes retinopathy
+hsa_circ_0068489,diabetes retinopathy
+hsa_circrna_104387,diabetic retinopathy
+circhla-c,lupus nephritis
+hsa_circ_0040705,systemic lupus erythematous
+hsa_circ_0000615,diabetes retinopathy
+hsa_circ_0083357,coronary artery disease
+hsa_circ_0000378,primary great saphenous vein varicosities
+czranb1,retinal neurodegeneration
+hsa_circ_0002908,pulmonary tuberculosis
+hsa_circ_0006935,repeated implantation failure
+hsa_circ6510-1,type 2 diabetes mellitus
+hsa_circ_0007788,postmenopausal osteoporosis
+hsa_circ_0032131,osteoarthritis
+circrna.20159,gestational diabetes mellitus
+circ_1639,alcoholic liver disease
+hsa_circrna_029965,active tuberculosis
+hsa_circ_007850,hepatic steatosis
+hsa_circrna_100782,pre-eclampsia
+hsa_circ_0005267,primary great saphenous vein varicosities
+hsa_circ_0062557,ovarian endometriosis
+hsa_circ_0005620,major depressive disorder
+circ_101222,pre-eclampsia
+circpan3,acute myeloid leukemia
+hsa_circ_0006766,postmenopausal osteoporosis
+hsa_circ_0054537,coronary artery disease
+hsa_circ_0058058,acute myeloid leukemia
+hsa_circrna_103503,rheumatoid arthritis
+circrna_15698,diabetic nephropathy
+hsa_circ_0005015,diabetes retinopathy
+hsa_circ_0001946,alzheimer
+hsa_circ_0024892,multiple sclerosis
+hsa_circ_0035381,acute myeloid leukemia
+circ_0043144,proliferative vitreo retinopathy
+circrna_11109,rheumatic heart disease
+circslc8a1,cardiovascular disease
+hsa_circrna_005019,t2dm with depression
+hsa_circ_0004277,acute myeloid leukemia
+hsa_circ_0072765,irradiated hepatic stellate cell
+hsa_circ_0002362,pulmonary tuberculosis
+circrna_0086376,acne
+circrna6783,herpes simplex virus 1 infection
+hsa_circ_102485,primary biliary cholangitis
+circ_aff2,hematopoiesis
+hsa_circ_0001417,tuberculosis
+hsa_circ_407176,primary biliary cholangitis
+circ_stk24,temporal lobe epilepsy
+hsa_circ_0026143,ovarian endometriosis
+circrna.22054,gestational diabetes mellitus
+hsa_circ_102533,leukoaraiosis
+hsa_circ_0068087,diabetes mellitus
+hsa_circ_0000519,multiple sclerosis
+hsa_circ_0045272,systemic lupus erythematous
+hsa_circ_0003575,atherosclerosis
+hsa_circrna_092516,rheumatoid arthritis
+hsa_circ_0001907,major depressive disorder
+hsa_circ_101873,rheumatoid arthritis
+hsa_circ_0001819,lupus nephritis
+cttn4,heart failure
+hsa_circ_0002062,chronic thromboembolic pulmonary hypertension
+hsa_circ_104871,rheumatoid arthritis
+circ_0002198,ovarian endometriosis
+hsa_circ_0030569,tuberculosis
+circrna-0001855,pre-eclampsia
+circrna_092516,rheumatoid arthritis
+hsa_circ_0006427,primary great saphenous vein varicosities
+hsa_circ_0009128,active pulmonary tuberculosis
+circrna_0016624,postmenopausal osteoporosis
+hsa_circ_0000615,diabetic retinopathy
+circ_drosha,temporal lobe epilepsy
+hsa_circrna_102034,rheumatoid arthritis
+hsa_circ_0054633,diabetes mellitus
+hsa_circrna_100257,rheumatoid arthritis
+circpvt1,acute lymphoblastic leukemia
+hsa_circ_0002078,moyamoya disease
+hsa_circ_0057762,systemic lupus erythematous
+hsa_circ_0049224,systemic lupus erythematous
+hsa_circ_0013255,liver fibrosis
+hsa_circ_0071896,facet joint osteoarthritis
+hsa_circrna_103047,rheumatoid arthritis
+has-circrna_0046367,hepatic steatosis
+hsa_circ_0013255,irradiated hepatic stellate cell
+hsa_circ_0061893,irradiated hepatic stellate cell
+hsa_circ_0008305,intervertebral disc degeneration
+circrna_104871,rheumatoid arthritis
+hsa_circ_0061893,liver fibrosis
+hsa_circ_0089310,major depressive disorder
+hsa_circrna_100750,diabetic retinopathy
+hsa_circ_0003391,postmenopausal osteoporosis
+hsa_circ_0023404,osteoarthritis
+hsa_circ_0057576,coronary artery disease
+hsa_circ_0008887,immunosenescence
+hsa_circ_0113854,coronary artery disease
+hsa_circ_0091702,intervertebral disc degeneration
+circrna_101873,rheumatoid arthritis
+circ_0004712,ovarian endometriosis
+hsa_circrna_063981,diabetic retinopathy
+hsa_circ_0000488,acute myeloid leukemia
+hsa_circ_0001400,multiple sclerosis
+hsa_circ_000367,hepatic steatosis
+hsa_circ_0071410,irradiated hepatic stellate cell
+hsa_circ_0029601,pre-eclampsia
+circrna-0067835,temporal lobe epilepsy
+hsa_circrna_14623,pulmonary tuberculosis
+hsa_circ_0004712,rheumatoid arthritis

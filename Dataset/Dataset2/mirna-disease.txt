@@ -1,0 +1,106 @@
+has-mir-203,osteoporosis
+mir-30b-3p,ebola virus disease
+hsa-mir-892b,leukemia
+mir-221,carotid plaque rupture
+mir-183-5p-xiap,acute myeloid leukemia
+mir-29b,chronic myeloid leukemia
+hsa-mir-1273g-3p,hypertensive
+hsa-mir-943,primary biliary cholangitis
+mir-197.,diabetes mellitus
+mmp13,osteoarthritis
+mir-184,diabetic retinopathy
+mir-153-5p,acute myeloid leukemia
+mir-488-3p,hirschsprung disease
+hsa-mir-637,essential hypertension
+id-1,cardiac senescence
+mir-200c,intervertebral disc degeneration
+mir-26b-5p,cardiac fibrosis
+hsa-mir-619-5p,hypertension
+mir-193b,osteoarthritis
+mir-34,sciatic nerve injury
+hsa-mir-146a-5p,crohn disease
+hsa-mir-942-5p,chronic thromboembolic pulmonary hypertension
+mir-98,postmenopausal osteoporosis
+mir-1248,multiple sclerosis
+mir-181,acute myeloid leukemia
+hsa-mir-5095,hypertensive
+mir-143,acute ischemic stroke
+mir-646,osteoarthritis
+hsa-mir-522-3p,primary biliary cholangitis
+akt3,hirschsprung disease
+ube2a,alzheimer
+hif1a,cardiac senescence
+mir-34a,hepatic steatosis
+mir-636,osteoarthritis
+mir-185,diabetic nephropathy
+mir-485-5p,temporal lobe epilepsy
+hsa-mir-6807-3p,hypertension
+mir-150,lupus nephritis
+mir-9-5p,liver fibrosis
+hsa-mir-501-5p,type 2 diabetes mellitus
+mir-107,atherosclerosis
+mir-9-5p,irradiated hepatic stellate cell
+hsa-mir-5095,hypertension
+mir-1252-5p,temporal lobe epilepsy
+mir-661,rheumatoid arthritis
+mir-138-5p,osteoarthritis
+nampt,osteoarthritis
+mir-136,osteoarthritis
+hsa-mir-940,chronic thromboembolic pulmonary hypertension
+mef2a,vascular endothelial dysfunction
+mir-17-3p,intervertebral disc degeneration
+mir-1972,hepatic steatosis
+mir-7,alzheimer
+mir-204,rheumatoid arthritis
+sa-mir-940,chronic thromboembolic pulmonary hypertension
+hsa-mir-6807-3p,hypertensive
+hsa-mir-146b-5p,crohn disease
+mir-124,cardiovascular disease
+mir-155,temporal lobe epilepsy
+mir-766,multiple sclerosis
+mir-455-3p,rheumatoid arthritis
+hsa-mir-619-5p,hypertensive
+hsa-mir-1273g-3p,hypertension
+mir-34a,hepatocellular steatosis
+mir-615-5p,vascular endothelial dysfunction
+mir-335-3p,ischemic stroke
+mir-876-3p,rheumatoid arthritis
+mir-198,malignant melanoma
+mir-203,acute myeloid leukemia
+mir-519d-3p,osteoarthritis
+mir-204-5p,diabetic cataract
+mir-19a,aortic aneurysm
+mir-127-5p,glucocorticoid-induced osteonecrosis of femoral head
+mir-519d-3p,diabetes retinopathy
+mir-615-5p,diabetic retinopathy
+hsa-mir-571,leukemia
+hsa-mir-138-5p,leukemia
+let-7g-5p,rheumatoid arthritis
+mir-130a-3p,coronary artery disease
+mir-323a-5p,rheumatoid arthritis
+crkl,chronic thromboembolic pulmonary hypertension
+hsa-mir-10a-5p,hypertension
+hsa-mir-5096,hypertensive
+hsa-mir-328-3p,leukemia
+mir-122,alcoholic liver disease
+mir-150-5p,hirschsprung disease
+mir-29b,systemic lupus erythematosus
+mir-1324,hirschsprung disease
+mir-217,retinal neurodegeneration
+hsa-mir-30c-1-3p,leukemia
+hsa-mir-496,acute myeloid leukemia
+mir-939,coronary atherosclerotic heart disease
+mir-125a-3p,systemic lupus erythematous
+mir-26a,osteoarthritis
+e2f1,cardiac senescence
+mir-184,lymphangiogenesis
+mir-665,osteoarthritis
+hsa-mir-5096,hypertension
+mir-431,intervertebral disc degeneration
+hsa-mir-182-5p,crohn disease
+hsa-mir-130a-3p,coronary artery disease
+fak,cardiac senescence
+hsa-mir-3614-3p,type 2 diabetes mellitus
+cdk6,chronic thromboembolic pulmonary hypertension
+hsa-mir-498,type 2 diabetes mellitus
+mir-217,osteoarthritis

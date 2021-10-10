@@ -1,0 +1,528 @@
+gas5,coronary artery disease
+casc11,postmenopausal osteoporosis
+casc2,diabetic nephropathy
+kcnq1ot1,atherosclerosis
+bc088327,sciatic nerve injury
+gdep,temporal lobe epilepsy
+ccdc26,leukemia
+nrf,myocardial infarction
+kif9-as1,inflammatory bowel disease
+magi2-as3,alzheimer
+lnc_000052,postmenopausal osteoporosis
+ttty15,cardiovascular disease
+anril,ischemic stroke
+nonhsat148822.1,active tuberculosis
+snhg1,acute myeloid leukemia
+tonsl-as1,coronary artery disease
+hottip,hematopoiesis
+bmncr,osteoporosis
+bancr,diabetes retinopathy
+m6a,myocardial senescence
+lamp5-as1,leukemia
+tug1,malignant melanoma
+linc00641,intervertebral disc degeneration
+gas5,type 2 diabetes mellitus
+dilc,rheumatoid arthritis
+tcf7,diabetic nephropathy
+gas5,aortic aneurysm
+caif,myocardial infarction
+pro1768,temporal lobe epilepsy
+xist,coronary artery disease
+rmst,hirschsprung disease
+gas5,primary great saphenous vein varicosities
+trpm2-as,multiple sclerosis
+tug1,type 2 diabetes mellitus
+snhg4,ovarian endometriosis
+vps9d1-as1,acute lymphoblastic leukemia
+hotair,multiple sclerosis
+pcgem1,osteoarthritis
+meg3,rheumatoid arthritis
+miat,diabetic nephropathy
+lncrna-meg3,atherosclerosis
+gm2691,myocardial infarction
+miat,moyamoya disease
+meg3,osteoporosis
+al929472.2,proliferative vitreo retinopathy
+lncrna-1810034e14rik,acute ischemic stroke
+gas5,myocardial infarction
+neat1,acute myeloid leukemia
+nonhsat067134.2,pulmonary tuberculosis
+nonhsat067134.2,active tuberculosis
+loc285194,atherosclerosis
+hulc,acute ischemic stroke
+zfas1,irradiated hepatic stellate cell
+nonhsat142707,major depressive disorder
+linc00261,pre-eclampsia
+hnf1a-as1,lymphangiogenesis
+lncrna-fa2h-2-mlkl,atherosclerosis
+ttty3,temporal lobe epilepsy
+part1,osteoarthritis
+blnc1,diabetic nephropathy
+linc00324,intervertebral disc degeneration
+linc-maf-4,multiple sclerosis
+snhg5,chronic myeloid leukemia
+scarna10,liver fibrosis
+malat,type 2 diabetes mellitus
+xist,rheumatoid arthritis
+nonhsat073641,chronic thromboembolic pulmonary hypertension
+chrf,heart failure
+crnde,heart failure
+fam74a3,temporal lobe epilepsy
+neat1,liver fibrosis
+linc00176,systemic lupus erythematous
+malat1,glucocorticoid-induced osteonecrosis of femoral head
+meg3,diabetes mellitus
+bc088259,sciatic nerve injury
+neat1,metabolism-related diseases
+casc2,metabolism-related diseases
+sra,kawasaki disease
+meg3,cardiac fibrosis
+nonhsat148822.1,pulmonary tuberculosis
+ufc1,osteoarthritis
+uc001ykl.1,systemic lupus erythematous
+humt,lymphangiogenesis
+zeb2-as1,pre-eclampsia
+mrak048635_p1,hypertensive
+pced1b-as1,active pulmonary tuberculosis
+neat1,diabetic nephropathy
+malat1,atherosclerosis
+fam83h-as1,intervertebral disc degeneration
+tug1,systemic lupus erythematous
+mfi2-as1,osteoarthritis
+lncrna-cir,facet joint osteoarthritis
+meg3,postmenopausal osteoporosis
+linc00513,systemic lupus erythematous
+nbr2,temporal lobe epilepsy
+heat2,heart failure
+ensmust00000147869,diabetic nephropathy
+hulc,hepatocellular steatosis
+gas5,intervertebral disc degeneration
+u90926,herpes simplex virus 1 infection
+malat1,coronary atherosclerotic heart disease
+h19,ovarian endometriosis
+dio3os,inflammatory bowel disease
+kcnq1ot1,diabetic cataract
+neat1,cardiac senescence
+apf,myocardial infarction
+miat,acute ischemic stroke
+xist,systemic lupus erythematous
+zeb1-as1,diabetic nephropathy
+linc-pint,type 2 diabetes mellitus
+malat1,diabetes mellitus
+neat1,aortic aneurysm
+gas5,malignant melanoma
+aim1-3,type 2 diabetes mellitus
+snhg16,atherosclerosis
+malat1,chronic thromboembolic pulmonary hypertension
+h19,metabolism-related diseases
+mir31hg,hirschsprung disease
+ccdc26,acute myeloid leukemia
+meg3,diabetic retinopathy
+sencr,aortic aneurysm
+h19,hepatocellular steatosis
+h19,diabetes retinopathy
+lncrna-heim,liver fibrosis
+nonhsag053901,diabetic nephropathy
+malat1,coronary artery disease
+malat1,gestational diabetes mellitus
+snhg8,myocardial infarction
+neat1,systemic lupus erythematous
+meg8,diabetic nephropathy
+fal1,hirschsprung disease
+cdkn2a,ischemic stroke
+lnc-hnf1b-3:1,pulmonary tuberculosis
+xist,aortic aneurysm
+neat1,rheumatoid arthritis
+linc0597,systemic lupus erythematous
+foxd2-as1,osteoarthritis
+tcons_00483150,systemic lupus erythematous
+meg3,hirschsprung disease
+meg3,osteoarthritis
+anril,acute ischemic stroke
+sox2ot,diabetic nephropathy
+malat-1,systemic lupus erythematous
+ctc-471j1.2,systemic lupus erythematous
+uc.345-,primary great saphenous vein varicosities
+enst00000422183,pulmonary tuberculosis
+malat1,osteoarthritis
+meg3,chronic myeloid leukemia
+lncrna-p21,osteoarthritis
+ntt,rheumatoid arthritis
+foxd3-as1,malignant melanoma
+nonhsag045500,major depressive disorder
+uc.48+,pulmonary tuberculosis
+snhg5,aortic aneurysm
+hla-drb6,temporal lobe epilepsy
+rp4-576h24.2,leukemia
+atb,malignant melanoma
+bat5,coronary artery disease
+lnc-lfar1-anril,liver fibrosis
+mir22hg,osteoarthritis
+lnc-ghrl-3:2,type 2 diabetes mellitus
+casc11,atherosclerosis
+malat1,t2dm with depression
+sra,hepatocellular steatosis
+nr_033515,diabetic nephropathy
+loc400891,temporal lobe epilepsy
+h19,malignant melanoma
+slc20a1,intervertebral disc degeneration
+ly86-as1,type 2 diabetes mellitus
+bancr,coronary artery disease
+faf1,intervertebral disc degeneration
+gas5,ischemic stroke
+lncrnacnn3-206,crohn disease
+linc00520,malignant melanoma
+casc8,active pulmonary tuberculosis
+loc554202,hirschsprung disease
+hotair,t2dm with depression
+enst00113,atherosclerosis
+xist,alzheimer
+kcnq1ot1,myocardial infarction
+malat1,moyamoya disease
+caif,osteoarthritis
+zfas1,myocardial infarction
+meg3,tuberculosis
+neat1,intervertebral disc degeneration
+loc100507600,hirschsprung disease
+hn12,hirschsprung disease
+pandar,type 2 diabetes mellitus
+h19,repeated implantation failure
+linc-scrg1,liver fibrosis
+gas5,acute ischemic stroke
+c15orf51,temporal lobe epilepsy
+snhg17,type 2 diabetes mellitus
+sled1,proliferative vitreo retinopathy
+draic,hirschsprung disease
+hotairm1,acute myeloid leukemia
+snhg14,ischemic stroke
+casc15,leukemia
+linc8986,systemic lupus erythematous
+hottip,diabetic retinopathy
+neat1,acute ischemic stroke
+mical2,liver fibrosis
+hotair,aortic aneurysm
+ctbp1-as2,diabetic nephropathy
+snhg9,osteoarthritis
+pandar,acute myeloid leukemia
+tug1,intervertebral disc degeneration
+lncrna-nr_104160,hypertensive
+cir,osteoarthritis
+tug1,hypertensive
+hottip,hirschsprung disease
+ttty11,temporal lobe epilepsy
+linc00152,pulmonary tuberculosis
+enst00000550337.,type 2 diabetes mellitus
+meg3,ischemic stroke
+h19,diabetic retinopathy
+lnc-dc,multiple sclerosis
+uca1,acute ischemic stroke
+pced1b-as1,active tuberculosis
+enst00000566208,major depressive disorder
+meg3,diabetes retinopathy
+snhg1,ischemic stroke
+anril,osteoarthritis
+casc2,type 2 diabetes mellitus
+anril,acute lymphoblastic leukemia
+malat1,cardiac senescence
+rapia,atherosclerosis
+linc00311,osteoporosis
+loxl1-as1,postmenopausal osteoporosis
+trpc7-as1,intervertebral disc degeneration
+socs2-as1,kawasaki disease
+enst00000604411.1,systemic lupus erythematous
+linc00968,diabetic nephropathy
+kcnq1ot1,heart failure
+ftx,ovarian endometriosis
+pfl,cardiac fibrosis
+linc-pint,glucocorticoid-induced osteonecrosis of femoral head
+tdrg1,kawasaki disease
+nonratt021972,type 2 diabetes mellitus
+ancr,osteoarthritis
+ak131850,aortic aneurysm
+meg3,asthma
+lnc-hnrnpu-1:7,pulmonary tuberculosis
+zfas1,rheumatoid arthritis
+enst00000448942,systemic lupus erythematous
+foxc2-as1,primary great saphenous vein varicosities
+enst00000570366,pulmonary tuberculosis
+t-all-r-lncr1,acute lymphoblastic leukemia
+fer1l4,osteoarthritis
+h19,moyamoya disease
+vestar,lymphangiogenesis
+hoxa-as3,atherosclerosis
+twf1,coronary artery disease
+ctbp1-as2,osteoarthritis
+h19,atherosclerosis
+lncrna-cir,osteoarthritis
+loc103691771,silicosis
+msc-as1,osteoporosis
+tug1,diabetic nephropathy
+prins,diabetic nephropathy
+lncrna-klf3-as1,osteoarthritis
+gas5,rheumatoid arthritis
+mhrt,heart failure
+h19,type 2 diabetes mellitus
+afap1-as1,hirschsprung disease
+h19,coronary artery disease
+terc,osteoporosis
+snhg1,osteoarthritis
+malat1,multiple sclerosis
+blacat2,lymphangiogenesis
+g36810,primary great saphenous vein varicosities
+vinas,atherosclerosis
+kcnq1ot1,acute myeloid leukemia
+cyp4b1-ps1-001,diabetic nephropathy
+gas5,osteoporosis
+linc00599,glucocorticoid-induced osteonecrosis of femoral head
+meg3,hepatocellular steatosis
+casc2,osteoarthritis
+snhg3,acute myeloid leukemia
+snhg1,postmenopausal osteoporosis
+malat1,temporal lobe epilepsy
+tdrg1,ovarian endometriosis
+ak094457,hypertensive
+dancr,diabetes mellitus
+coromarker,coronary artery disease
+sra1,ovarian endometriosis
+bancr,malignant melanoma
+nalt,acute lymphoblastic leukemia
+h19,primary biliary cholangitis
+enst00000517573,major depressive disorder
+crnde,postmenopausal osteoporosis
+miat,systemic lupus erythematous
+1,type 2 diabetes mellitus
+mir99ahg,active pulmonary tuberculosis
+mir4435-2hg,osteoarthritis
+fas-as1,osteoarthritis
+plscr4,heart failure
+h19,myocardial infarction
+gas5,systemic lupus erythematous
+klf3-as1,myocardial infarction
+basp1-as1,major depressive disorder
+h19,liver fibrosis
+picsar,rheumatoid arthritis
+dancr,gestational diabetes mellitus
+linc01121,intervertebral disc degeneration
+serpinb9p1,acute ischemic stroke
+malat1,diabetic retinopathy
+meg8,gestational diabetes mellitus
+ttty1,temporal lobe epilepsy
+h19,myocardial senescence
+dlx6os1,diabetic nephropathy
+uca1,chronic myeloid leukemia
+xloc_035088,acute ischemic stroke
+zeb1-as1,acute lymphoblastic leukemia
+malat1,ischemic stroke
+nonhsat078957.2,active tuberculosis
+pvt1,diabetic cataract
+norad,atherosclerosis
+gas5,atherosclerosis
+sox2,ischemic stroke
+nonhsat078957.2,pulmonary tuberculosis
+wt1-as,alzheimer
+snhg5,acute myeloid leukemia
+anril,systemic lupus erythematous
+nr_038221,pulmonary tuberculosis
+meg3,acute ischemic stroke
+dq786243,inflammatory bowel disease
+neat1,type 2 diabetes mellitus
+mirt1,myocardial infarction
+af119885,primary great saphenous vein varicosities
+veal2,diabetes retinopathy
+lnctmem235,glucocorticoid-induced osteonecrosis of femoral head
+rpph1,diabetic nephropathy
+h19,osteoarthritis
+magi2-as3,multiple system atrophy
+ak012226,hepatocellular steatosis
+ttc28-as1,type 2 diabetes mellitus
+xist,intervertebral disc degeneration
+norad,glucocorticoid-induced osteonecrosis of femoral head
+anril,coronary artery disease
+anril,type 2 diabetes mellitus
+neat1,malignant melanoma
+meg3,active pulmonary tuberculosis
+lnc7514,systemic lupus erythematous
+snhg7,osteoarthritis
+anril,crohn disease
+h19,acne
+casc15,acute lymphoblastic leukemia
+neat1,hepatocellular steatosis
+nron,heart failure
+nonhsat101518.2,pulmonary tuberculosis
+hnf1a-as1,multiple sclerosis
+meg3,hepatic steatosis
+ncrna00259,temporal lobe epilepsy
+ac007032.1,proliferative vitreo retinopathy
+hcg22,kawasaki disease
+dilc,osteoarthritis
+loc149620,temporal lobe epilepsy
+miat,coronary atherosclerotic heart disease
+awpph,coronary artery disease
+snhg5,osteoarthritis
+hotair,malignant melanoma
+enst00000416361,coronary artery disease
+zeb2-as1,acute myeloid leukemia
+casc11,coronary artery disease
+gm5524,diabetic nephropathy
+xist,myocardial infarction
+balr-2,leukemia
+bancr,atherosclerosis
+loxl1-as1,osteoarthritis
+gm4419,diabetic nephropathy
+neat1,tuberculosis
+vps9d1-as1,acute myeloid leukemia
+hist1h2ag-6,type 2 diabetes mellitus
+tug1,osteoporosis
+neat1,active tuberculosis
+h19,ischemic stroke
+n1lr,ischemic stroke
+sox2ot,aortic aneurysm
+c6orf176,temporal lobe epilepsy
+mirt2,inflammatory bowel disease
+lnc-dc,systemic lupus erythematous
+xist,atherosclerosis
+tug1,atherosclerosis
+malat1,diabetic nephropathy
+tincr,pre-eclampsia
+snhg17,gestational diabetes mellitus
+dq786243,crohn disease
+rp11-414j4,temporal lobe epilepsy
+malat1,ovarian endometriosis
+snhg14,osteoarthritis
+xist,osteoarthritis
+enst00000501122.2,systemic lupus erythematous
+ha117,hirschsprung disease
+appat,atherosclerosis
+gasl1,heart failure
+meg8,diabetes mellitus
+gas-5,osteoarthritis
+snhg16,osteoarthritis
+malat1,osteoporosis
+ccat1,inflammatory bowel disease
+gas5,active pulmonary tuberculosis
+link-a,diabetic nephropathy
+zeb2-as1,hematopoiesis
+hottip,acute myeloid leukemia
+1810034e14rik,ischemic stroke
+hand2-as1,chronic myeloid leukemia
+zfas1,atherosclerosis
+neat1,osteoarthritis
+oip5-as1,osteoarthritis
+neat1,diabetic cataract
+agap2-as1,pre-eclampsia
+rp11-679b19.1,crohn disease
+atb,osteoarthritis
+hottip,diabetes retinopathy
+nonhsat034045,major depressive disorder
+neat1,lupus nephritis
+dancr,osteoporosis
+fam183b,temporal lobe epilepsy
+uca1,ovarian endometriosis
+snhg16,diabetic nephropathy
+snhg20,hepatocellular steatosis
+magi2-as3,intervertebral disc degeneration
+lnc-fam76b-4:1,pulmonary tuberculosis
+casc2,malignant melanoma
+oip5-as1,intervertebral disc degeneration
+kcnq1ot1,diabetic nephropathy
+malat1,crohn disease
+lnc3643,systemic lupus erythematous
+sox2-ot,heart failure
+crnde,aortic aneurysm
+ak021444,primary great saphenous vein varicosities
+lincrna-p21,atherosclerosis
+nonhsat101518.2,active tuberculosis
+malat1,type 2 diabetes mellitus
+ttty21,temporal lobe epilepsy
+malat1,intervertebral disc degeneration
+gpr19,myocardial infarction
+dancr,postmenopausal osteoporosis
+casc2,active pulmonary tuberculosis
+nr_104160,essential hypertension
+xist,diabetic nephropathy
+nr_027927,primary great saphenous vein varicosities
+neat1,active pulmonary tuberculosis
+tp53tg1,metabolism-related diseases
+gas5,cardiac fibrosis
+lnc5150,systemic lupus erythematous
+malat1,malignant melanoma
+linc00265,aortic aneurysm
+meg3,alzheimer
+ac037198.2,proliferative vitreo retinopathy
+gas5,lymphangiogenesis
+rmst,myocardial infarction
+nr_027830,primary great saphenous vein varicosities
+miat,atherosclerosis
+h19,hepatic steatosis
+malat1,myocardial infarction
+hotair,coronary artery disease
+t199678,multiple system atrophy
+ifng-as1,coronary artery disease
+casc7,heart failure
+miat,type 2 diabetes mellitus
+gm15645,diabetic nephropathy
+pacer,active pulmonary tuberculosis
+miat,coronary artery disease
+lbx2-as1,aortic aneurysm
+h2k2,diabetic nephropathy
+linc01272,inflammatory bowel disease
+il21r-as1,coronary artery disease
+gas5,multiple sclerosis
+loc152742,pulmonary tuberculosis
+xist,diabetic cataract
+neat1,herpes simplex virus 1 infection
+h19,cardiac fibrosis
+ctepha1,chronic thromboembolic pulmonary hypertension
+ak136714,atherosclerosis
+ac111653.1,sciatic nerve injury
+linc00518,malignant melanoma
+lnc-isg20,diabetic nephropathy
+serpinb9p1,ischemic stroke
+pacer,osteoarthritis
+afap1-as1,pre-eclampsia
+meg3,gestational diabetes mellitus
+malat1,cardiovascular disease
+snhg7,liver fibrosis
+miat,myocardial infarction
+loc101926975,hirschsprung disease
+ak085865,asthma
+tcons_00019174,major depressive disorder
+part1,intervertebral disc degeneration
+snhg12,hypertensive
+zfas1,temporal lobe epilepsy
+ak077216,diabetes retinopathy
+ac020928.1,leukoaraiosis
+gas5,diabetic nephropathy
+loc646616,essential hypertension
+malat1,asthma
+tug1,pre-eclampsia
+snhg8,ischemic stroke
+pcfl,myocardial infarction
+meg3,malignant melanoma
+rncr3,moyamoya disease
+snhg16,sciatic nerve injury
+h19,intervertebral disc degeneration
+pvt1,osteoarthritis
+h19,aortic aneurysm
+nr_038323,diabetic nephropathy
+meg3,acute myeloid leukemia
+nkila,osteoarthritis
+hcg18,intervertebral disc degeneration
+miat,cardiac fibrosis
+thumpd3-as1,osteoarthritis
+wtapp1,chronic thromboembolic pulmonary hypertension
+nr_003142,pulmonary tuberculosis
+ancr,postmenopausal osteoporosis
+xist,gestational diabetes mellitus
+nkila,type 2 diabetes mellitus
+malat1,diabetic cataract
+neat1,coronary atherosclerotic heart disease
+xist,ischemic stroke
+hulc,myocardial infarction
+uca1,pre-eclampsia
+lnc-ghrl-3:3,type 2 diabetes mellitus
+malat1,diabetes retinopathy
+hotair,intervertebral disc degeneration
+sox2ot,gestational diabetes mellitus
+pvt1,asthma
+nr_105053,pulmonary tuberculosis
