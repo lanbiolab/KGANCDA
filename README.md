@@ -10,6 +10,7 @@ Author: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Yi Pan. Yi-Ping Phoebe Chen.
 + sklearn == 0.20.0
 
 # Dataset
+## Dataset 1
 including those data files:
 + cancer_list.csv record cancer name and id.
 + circRNA_list.csv record circRNA name and id.
@@ -20,6 +21,10 @@ including those data files:
 + lncRNA-cancer.txt record associations between lncRNAs and cancers.
 + lncRNA-miRNA.txt record associations between lncRNAs and miRNAs.
 + miRNA-cancer.csv record associations between miRNAs and cancers.
+
+## Dataset 2
+including those data files:
++
 
 # Model
 + KGANCDA.py: the core model proposed in the paper.
