@@ -1,13 +1,40 @@
 # KGANCDA
-KGANCDA is effective to predict associations between circRNA and cancer, which is based on knowledge graph attention network. The detail of the paper will be released in this page after the paper accepted.
+KGANCDA is effective to predict associations between circRNA and cancer, which is based on knowledge graph attention network. In this paper,we propose a new computational method (KGANCDA) to predict circRNA-disease associations based on knowledge graph attention network.The circRNA-disease knowledge graphs are constructed by collecting multiple relationship data among circRNA, disease, miRNA and lncRNA. Then, the knowledge graph attention network is designed to obtain embeddings of each entity by distinguishing the importance of information from neighbors.Besides the low-order neighbor information, it can also capture high-order neighbor information from multi source associations,which alleviates the problem of data sparsity. Finally, the multi layer perceptron is applied to predict the affinity score of circRNA-disease associations based on the embeddings of circRNA and disease.
 
 Author: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Yi Pan. Yi-Ping Phoebe Chen.
+
+Paper: https://academic.oup.com/bib/article-abstract/23/1/bbab494/6447436
 
 # Environment Requirement
 + tensorflow == 1.12.0
 + numpy == 1.15.4
 + scipy == 1.1.0
 + sklearn == 0.20.0
+
+# Citation
+If you want to use our codes and datasets in your research, please cite:
+```
+@article{10.1093/bib/bbab494,
+    author = {Lan, Wei and 
+              Dong, Yi and 
+              Chen, Qingfeng and 
+              Zheng, Ruiqing and 
+              Liu, Jin and 
+              Pan, Yi and 
+              Chen, Yi-Ping Phoebe},
+    title = "{KGANCDA: predicting circRNA-disease associations based on knowledge graph attention network}",
+    journal = {Briefings in Bioinformatics},
+    volume = {23},
+    number = {1},
+    year = {2021},
+    month = {12},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbab494},
+    url = {https://doi.org/10.1093/bib/bbab494},
+    note = {bbab494},
+    eprint = {https://academic.oup.com/bib/article-pdf/23/1/bbab494/42229911/bbab494.pdf},
+}
+```
 
 # Dataset
 ## Dataset 1 (Cancer)
