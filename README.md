@@ -5,12 +5,6 @@ Author: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Yi Pan. Yi-Ping Phoebe Chen.
 
 Paper: https://academic.oup.com/bib/article-abstract/23/1/bbab494/6447436
 
-# Environment Requirement
-+ tensorflow == 1.12.0
-+ numpy == 1.15.4
-+ scipy == 1.1.0
-+ sklearn == 0.20.0
-
 # Citation
 If you want to use our codes and datasets in your research, please cite:
 ```
@@ -35,6 +29,12 @@ If you want to use our codes and datasets in your research, please cite:
     eprint = {https://academic.oup.com/bib/article-pdf/23/1/bbab494/42229911/bbab494.pdf},
 }
 ```
+
+# Environment Requirement
++ tensorflow == 1.12.0
++ numpy == 1.15.4
++ scipy == 1.1.0
++ sklearn == 0.20.0
 
 # Dataset
 ## Dataset 1 (Cancer)
